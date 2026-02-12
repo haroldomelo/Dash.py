@@ -1,0 +1,87 @@
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import Select, WebDriverWait
+from concurrent.futures import wait
+import time 
+import datetime
+import plotly.graph_objects as go
+from selenium.common.exceptions import NoSuchElementException
+
+# Metodo para capturar os dados DI do site da BMF
+def capturarDI(url, driver):
+    sem_conexao = True
+    
+    while sem_conexao:
+        try:
+            driver.get(url)
+            sem_conexao = False
+
+            WebDriverWait(driver, 10).until(
+                EC.frame_to_be_available_and_switch_to_it((By.ID, "bvmf_iframe")))
+            
+            # Adicionar espera para o elemento btnDataDI aparecer após o clique
+            # link do botão para pesquisar data da DI
+            
+            btnDataDI = '/html/body/div/div[2]/form[1]/table[1]/tbody/tr/td/table[1]/tbody/tr/td/input[2]'
+            cmbDI = '/html/body/div/div[2]/form[1]/table[1]/tbody/tr[1]/td[2]/select'
+
+            btnDataDI = driver.find_element('xpath', btnDataDI)
+            cmbDI = driver.find_element('xpath', cmbDI)
+
+            print(btnDataDI)
+            print(cmbDI)
+
+            try:
+                # tenta clicar no botão de data
+                bd = WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.XPATH, btnDataDI)))
+                driver.execute_script("arguments[0].click();", bd)
+                # driver.execute_script("arguments[0].click();", btnDataDI)
+
+                # selecionar combobox DI1
+                bd = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.XPATH, cmbDI)))
+                selCmbDI = Select(cmbDI)
+                selCmbDI.select_by_visible_text("DI1 : DI de 1 dia")
+
+            except Exception as e:
+                print(f"Erro ao encontrar ou clicar no link de download: {e}")
+                driver.quit()
+                return None
+            
+            # necessário utilizar para dar tempo necessário para o download do arquivo.
+            # time.sleep(5) 
+        except:
+            pass
+            
+    # time.sleep(3)
+        
+    # Tabela 01 com o índice
+    local_indice = '''
+        /html/body/div/div[2]/form[1]/table[3]/tbody/tr[3]/td[1]/table
+    '''
+    # Tabela 02 com dados DI
+    local_tabela = '''
+        /html/body/div/div[2]/form[1]/table[3]/tbody/tr[3]/td[3]/table
+    '''
+
+    elemento_ind = driver.find_element("xpath", local_indice)
+    elemento = driver.find_element("xpath", local_tabela)
+    
+    htmlTab = elemento.get_attribute('outerHTML')
+    html_ind = elemento_ind.get_attribute('outerHTML')
+
+    tab = pd.read_html(htmlTab)[0]
+    indTab = pd.read_html(html_ind)[0]
+
+    print(tab)
+    print(indTab)
+
+    # fechar navegador
+    driver.quit()
+
+    return tab, indTab

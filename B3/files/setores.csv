@@ -1,0 +1,374 @@
+SETOR,SUBSETOR,SEGMENTO,NOME DE PREGÃO,CÓDIGO,SEGMENTO DE NEGOCIAÇÃO
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",AZT ENERGIA,AZTE,Básico Bolsa
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",BRAVA,BRAV,Novo Mercado
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",COSAN,CSAN,Novo Mercado
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",PET MANGUINH,RPMG,Básico Bolsa
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",PETROBRAS,PETR,Nível 2
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",PETRORECSA,RECV,Novo Mercado
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",PETRORIO,PRIO,Novo Mercado
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",RAIZEN,RAIZ,Nível 2
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis","Exploração, Refino e Distribuição",ULTRAPAR,UGPA,Novo Mercado
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços,LUPATECH,LUPA,Novo Mercado
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços,OCEANPACT,OPCT,Novo Mercado
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Equipamentos e Serviços,OSX BRASIL,OSXB,Novo Mercado
+"Petróleo, Gás e Biocombustíveis","Petróleo, Gás e Biocombustíveis",Distribuição de Combustíveis,VIBRA,VBBR,Novo Mercado
+Materiais Básicos,Mineração,Minerais Metálicos,AURA 360,AURA,BDR3
+Materiais Básicos,Mineração,Minerais Metálicos,BRADESPAR,BRAP,Nível 1
+Materiais Básicos,Mineração,Minerais Metálicos,CBA,CBAV,Novo Mercado
+Materiais Básicos,Mineração,Minerais Metálicos,CSNMINERACAO,CMIN,Nível 2
+Materiais Básicos,Mineração,Minerais Metálicos,LITEL,LTEL,Básico Balcão
+Materiais Básicos,Mineração,Minerais Metálicos,LITELA,LTLA,Básico Balcão
+Materiais Básicos,Mineração,Minerais Metálicos,VALE,VALE,Novo Mercado
+Materiais Básicos,Siderurgia e Metalurgia,Siderurgia,FERBASA,FESA,Nível 1
+Materiais Básicos,Siderurgia e Metalurgia,Siderurgia,GERDAU,GGBR,Nível 1
+Materiais Básicos,Siderurgia e Metalurgia,Siderurgia,GERDAU MET,GOAU,Nível 1
+Materiais Básicos,Siderurgia e Metalurgia,Siderurgia,SID NACIONAL,CSNA,Básico Bolsa
+Materiais Básicos,Siderurgia e Metalurgia,Siderurgia,USIMINAS,USIM,Nível 1
+Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço,HAGA S/A,HAGA,Básico Bolsa
+Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço,MANGELS INDL,MGEL,Básico Bolsa
+Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço,PANATLANTICA,PATI,Básico Bolsa
+Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Ferro e Aço,TEKNO,TKNO,Básico Bolsa
+Materiais Básicos,Siderurgia e Metalurgia,Artefatos de Cobre,PARANAPANEMA,PMAM,Novo Mercado
+Materiais Básicos,Químicos,Petroquímicos,BRASKEM,BRKM,Nível 1
+Materiais Básicos,Químicos,Petroquímicos,DEXXOS PAR,DEXP,Nível 1
+Materiais Básicos,Químicos,Fertilizantes e Defensivos,FER HERINGER,FHER,Novo Mercado
+Materiais Básicos,Químicos,Fertilizantes e Defensivos,NUTRIPLANT,NUTR,Mais
+Materiais Básicos,Químicos,Fertilizantes e Defensivos,VITTIA,VITT,Novo Mercado
+Materiais Básicos,Químicos,Químicos Diversos,CRISTAL,CRPG,Básico Bolsa
+Materiais Básicos,Químicos,Químicos Diversos,UNIPAR,UNIP,Básico Bolsa
+Materiais Básicos,Madeira e Papel,Madeira,DEXCO,DXCO,Novo Mercado
+Materiais Básicos,Madeira e Papel,Madeira,EUCATEX,EUCA,Nível 1
+Materiais Básicos,Madeira e Papel,Papel e Celulose,KLABIN S/A,KLBN,Nível 2
+Materiais Básicos,Madeira e Papel,Papel e Celulose,MELHOR SP,MSPA,Básico Bolsa
+Materiais Básicos,Madeira e Papel,Papel e Celulose,SUZANO HOLD,NEMO,Básico Bolsa
+Materiais Básicos,Madeira e Papel,Papel e Celulose,SUZANO S.A.,SUZB,Novo Mercado
+Materiais Básicos,Embalagens,Embalagens,IRANI,RANI,Novo Mercado
+Materiais Básicos,Materiais Diversos,Materiais Diversos,SANSUY,SNSY,Básico Bolsa
+Bens Industriais,Construção e Engenharia,Produtos para Construção,ETERNIT,ETER,Novo Mercado
+Bens Industriais,Construção e Engenharia,Produtos para Construção,PORTOBELLO,PTBL,Novo Mercado
+Bens Industriais,Construção e Engenharia,Construção Pesada,AZEVEDO,AZEV,Básico Bolsa
+Bens Industriais,Construção e Engenharia,Engenharia Consultiva,SONDOTECNICA,SOND,Básico Bolsa
+Bens Industriais,Construção e Engenharia,Serviços Diversos,ARMAC,ARML,Novo Mercado
+Bens Industriais,Construção e Engenharia,Serviços Diversos,MILLS,MILS,Novo Mercado
+Bens Industriais,Construção e Engenharia,Serviços Diversos,PRINER,PRNR,Novo Mercado
+Bens Industriais,Material de Transporte,Material Aeronáutico e de Defesa,EMBRAER,EMBJ,Novo Mercado
+Bens Industriais,Material de Transporte,Material Rodoviário,FRAS-LE,FRAS,Nível 1
+Bens Industriais,Material de Transporte,Material Rodoviário,MARCOPOLO,POMO,Nível 2
+Bens Industriais,Material de Transporte,Material Rodoviário,RANDON PART,RAPT,Nível 1
+Bens Industriais,Material de Transporte,Material Rodoviário,RECRUSUL,RCSL,Básico Bolsa
+Bens Industriais,Material de Transporte,Material Rodoviário,RIOSULENSE,RSUL,Básico Bolsa
+Bens Industriais,Material de Transporte,Material Rodoviário,TUPY,TUPY,Novo Mercado
+Bens Industriais,Material de Transporte,Material Rodoviário,WETZEL S/A,MWET,Básico Bolsa
+Bens Industriais,Máquinas e Equipamentos,"Motores , Compressores e Outros",SCHULZ,SHUL,Básico Bolsa
+Bens Industriais,Máquinas e Equipamentos,"Motores , Compressores e Outros",WEG,WEGE,Novo Mercado
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais,ACO ALTONA,EALT,Básico Bolsa
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais,AERIS,AERI,Novo Mercado
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais,BARDELLA,BDLL,Básico Bolsa
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais,INEPAR,INEP,Básico Bolsa
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais,KEPLER WEBER,KEPL,Novo Mercado
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais,METALFRIO,FRIO,Novo Mercado
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais,PRATICA,PTCA,Mais Nível 2
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Industriais,ROMI,ROMI,Novo Mercado
+Bens Industriais,Máquinas e Equipamentos,Máq. e Equip. Construção e Agrícolas,METISA,MTSA,Básico Bolsa
+Bens Industriais,Máquinas e Equipamentos,Armas e Munições,TAURUS ARMAS,TASA,Nível 2
+Bens Industriais,Transporte,Linhas Aéreas de Passageiros,AZUL,AZUL,Nível 2
+Bens Industriais,Transporte,Linhas Aéreas de Passageiros,GOL,GOLL,Nível 2
+Bens Industriais,Transporte,Transporte Ferroviário,FER C ATLANT,VSPT,Básico Bolsa
+Bens Industriais,Transporte,Transporte Ferroviário,MRS LOGIST,MRSA,Básico Balcão
+Bens Industriais,Transporte,Transporte Ferroviário,RUMO S.A.,RAIL,Novo Mercado
+Bens Industriais,Transporte,Transporte Hidroviário,HIDROVIAS,HBSA,Novo Mercado
+Bens Industriais,Transporte,Transporte Hidroviário,LOG-IN,LOGN,Novo Mercado
+Bens Industriais,Transporte,Transporte Hidroviário,TREVISA,LUXM,Básico Bolsa
+Bens Industriais,Transporte,Transporte Rodoviário,JSL,JSLG,Novo Mercado
+Bens Industriais,Transporte,Transporte Rodoviário,SEQUOIA LOG,SEQL,Novo Mercado
+Bens Industriais,Transporte,Transporte Rodoviário,TEGMA,TGMA,Novo Mercado
+Bens Industriais,Transporte,Exploração de Rodovias,CONC RIO TER,CRTE,Básico Bolsa
+Bens Industriais,Transporte,Exploração de Rodovias,ECORODOVIAS,ECOR,Novo Mercado
+Bens Industriais,Transporte,Exploração de Rodovias,MOTIVA SA,MOTV,Novo Mercado
+Bens Industriais,Transporte,Exploração de Rodovias,TRIUNFO PART,TPIS,Novo Mercado
+Bens Industriais,Transporte,Serviços de Apoio e Armazenagem,GRUAIRPORT,AGRU,Básico Bolsa
+Bens Industriais,Transporte,Serviços de Apoio e Armazenagem,HMOBI S.A,HMOB,Básico Bolsa
+Bens Industriais,Transporte,Serviços de Apoio e Armazenagem,INVEPAR,IVPR,Básico Balcão
+Bens Industriais,Transporte,Serviços de Apoio e Armazenagem,PORTO VM,PSVM,Básico Bolsa
+Bens Industriais,Serviços,Serviços Diversos,BBMLOGISTICA,BBML,Mais
+Bens Industriais,Serviços,Serviços Diversos,CONTAX,CTAX,Básico Bolsa
+Bens Industriais,Serviços,Serviços Diversos,DTCOM-DIRECT,DTCY,Básico Bolsa
+Bens Industriais,Serviços,Serviços Diversos,ESTAPAR,ALPK,Novo Mercado
+Bens Industriais,Serviços,Serviços Diversos,GPS,GGPS,Novo Mercado
+Bens Industriais,Serviços,Serviços Diversos,VALID,VLID,Novo Mercado
+Bens Industriais,Comércio Varejista,Material de Transporte,MINASMAQUINA,MMAQ,Básico Bolsa
+Bens Industriais,Comércio Varejista,Material de Transporte,RODOBENS,RBNS,Básico Bolsa
+Bens Industriais,Comércio Varejista,Material de Transporte,WLM IND COM,WLMM,Básico Bolsa
+Consumo não Cíclico,Agropecuária,Agricultura,3TENTOS,TTEN,Novo Mercado
+Consumo não Cíclico,Agropecuária,Agricultura,AGROGALAXY,AGXY,Novo Mercado
+Consumo não Cíclico,Agropecuária,Agricultura,ALIPERTI,APTI,Básico Bolsa
+Consumo não Cíclico,Agropecuária,Agricultura,BOA SAFRA,SOJA,Novo Mercado
+Consumo não Cíclico,Agropecuária,Agricultura,BRASILAGRO,AGRO,Novo Mercado
+Consumo não Cíclico,Agropecuária,Agricultura,CTC S.A.,CTCA,Mais
+Consumo não Cíclico,Agropecuária,Agricultura,GRANJA FARIA,EGGY,Básico Bolsa
+Consumo não Cíclico,Agropecuária,Agricultura,SLC AGRICOLA,SLCE,Novo Mercado
+Consumo não Cíclico,Agropecuária,Agricultura,TERRASANTAPA,LAND,Novo Mercado
+Consumo não Cíclico,Alimentos Processados,Açucar e Alcool,JALLESMACHAD,JALL,Novo Mercado
+Consumo não Cíclico,Alimentos Processados,Açucar e Alcool,SAO MARTINHO,SMTO,Novo Mercado
+Consumo não Cíclico,Alimentos Processados,Carnes e Derivados,EXCELSIOR,BAUH,Básico Bolsa
+Consumo não Cíclico,Alimentos Processados,Carnes e Derivados,FICTORALIMEN,FICT,Básico Bolsa
+Consumo não Cíclico,Alimentos Processados,Carnes e Derivados,JBS N.V.,JBSS,BDR2
+Consumo não Cíclico,Alimentos Processados,Carnes e Derivados,MARFRIG,MBRF,Novo Mercado
+Consumo não Cíclico,Alimentos Processados,Carnes e Derivados,MINERVA,BEEF,Novo Mercado
+Consumo não Cíclico,Alimentos Processados,Carnes e Derivados,MINUPAR,MNPR,Básico Bolsa
+Consumo não Cíclico,Alimentos Processados,Alimentos Diversos,CAMIL,CAML,Novo Mercado
+Consumo não Cíclico,Alimentos Processados,Alimentos Diversos,JOSAPAR,JOPA,Básico Bolsa
+Consumo não Cíclico,Alimentos Processados,Alimentos Diversos,M.DIASBRANCO,MDIA,Novo Mercado
+Consumo não Cíclico,Alimentos Processados,Alimentos Diversos,ODERICH,ODER,Básico Bolsa
+Consumo não Cíclico,Bebidas,Cervejas e Refrigerantes,AMBEV S/A,ABEV,Básico Bolsa
+Consumo não Cíclico,Produtos de Cuidado Pessoal e de Limpeza,Produtos de Cuidado Pessoal,ESPACOLASER,ESPA,Novo Mercado
+Consumo não Cíclico,Produtos de Cuidado Pessoal e de Limpeza,Produtos de Cuidado Pessoal,NATURA,NATU,Novo Mercado
+Consumo não Cíclico,Produtos de Cuidado Pessoal e de Limpeza,Produtos de Limpeza,BOMBRIL,BOBR,Básico Bolsa
+Consumo não Cíclico,Comércio e Distribuição,Alimentos,ASSAI,ASAI,Novo Mercado
+Consumo não Cíclico,Comércio e Distribuição,Alimentos,GRUPO MATEUS,GMAT,Novo Mercado
+Consumo não Cíclico,Comércio e Distribuição,Alimentos,P.ACUCAR-CBD,PCAR,Novo Mercado
+Consumo Cíclico,Comércio Varejista,"Tecidos, Vestuário e Calçados",AZZAS 2154,AZZA,Novo Mercado
+Consumo Cíclico,Comércio Varejista,"Tecidos, Vestuário e Calçados",CEA MODAS,CEAB,Novo Mercado
+Consumo Cíclico,Comércio Varejista,"Tecidos, Vestuário e Calçados",GRAZZIOTIN,CGRA,Básico Bolsa
+Consumo Cíclico,Comércio Varejista,"Tecidos, Vestuário e Calçados",GUARARAPES,GUAR,Novo Mercado
+Consumo Cíclico,Comércio Varejista,"Tecidos, Vestuário e Calçados",LOJAS MARISA,AMAR,Novo Mercado
+Consumo Cíclico,Comércio Varejista,"Tecidos, Vestuário e Calçados",LOJAS RENNER,LREN,Novo Mercado
+Consumo Cíclico,Comércio Varejista,"Tecidos, Vestuário e Calçados",VESTE,VSTE,Novo Mercado
+Consumo Cíclico,Comércio Varejista,Eletrodomésticos,ALLIED,ALLD,Novo Mercado
+Consumo Cíclico,Comércio Varejista,Eletrodomésticos,CASAS BAHIA,BHIA,Novo Mercado
+Consumo Cíclico,Comércio Varejista,Eletrodomésticos,MAGAZ LUIZA,MGLU,Novo Mercado
+Consumo Cíclico,Comércio Varejista,Produtos Diversos,AMERICANAS,AMER,Novo Mercado
+Consumo Cíclico,Comércio Varejista,Produtos Diversos,GRUPO SBF,SBFG,Novo Mercado
+Consumo Cíclico,Comércio Varejista,Produtos Diversos,LE BISCUIT,LLBI,Básico Bolsa
+Consumo Cíclico,Comércio Varejista,Produtos Diversos,PETZCOBASI,AUAU,Novo Mercado
+Consumo Cíclico,Comércio Varejista,Produtos Diversos,QUERO-QUERO,LJQQ,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,ALPHAVILLE,AVLL,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,CONST A LIND,CALI,Básico Bolsa
+Consumo Cíclico,Construção Civil,Incorporações,CURY S/A,CURY,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,CYRELA REALT,CYRE,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,DIRECIONAL,DIRR,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,EVEN,EVEN,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,EZTEC,EZTC,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,FICA,FIEI,Básico Bolsa
+Consumo Cíclico,Construção Civil,Incorporações,GAFISA,GFSA,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,HELBOR,HBOR,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,INC SA,INNC,Mais
+Consumo Cíclico,Construção Civil,Incorporações,JHSF PART,JHSF,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,JOAO FORTES,JFEN,Básico Bolsa
+Consumo Cíclico,Construção Civil,Incorporações,KALLAS,KLAS,Básico Bolsa
+Consumo Cíclico,Construção Civil,Incorporações,LAVVI,LAVV,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,MELNICK,MELK,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,MITRE REALTY,MTRE,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,MOURA DUBEUX,MDNE,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,MRV,MRVE,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,PDG REALT,PDGR,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,PLANOEPLANO,PLPL,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,RDVC CITY,CCTY,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,ROSSI RESID,RSID,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,TECNISA,TCSA,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,TENDA,TEND,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,TRISUL,TRIS,Novo Mercado
+Consumo Cíclico,Construção Civil,Incorporações,VIVER,VIVR,Novo Mercado
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,CEDRO,CEDO,Nível 1
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,COTEMINAS,CTNM,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,DOHLER,DOHL,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,IND CATAGUAS,CATA,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,KARSTEN,CTKA,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,PETTENATI,PTNT,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,SANTANENSE,CTSA,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,SPRINGS,SGPS,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Fios e Tecidos,TEX RENAUX,TXRX,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Vestuário,TRACK FIELD,TFCO,Nível 2
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados,ALPARGATAS,ALPA,Nível 1
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados,CAMBUCI,CAMB,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados,GRENDENE,GRND,Novo Mercado
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Calçados,VULCABRAS,VULC,Novo Mercado
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios,MUNDIAL,MNDL,Básico Bolsa
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios,TECHNOS,TECN,Novo Mercado
+Consumo Cíclico,"Tecidos, Vestuário e Calçados",Acessórios,VIVARA S.A.,VIVA,Novo Mercado
+Consumo Cíclico,Utilidades Domésticas,Eletrodomésticos,WHIRLPOOL,WHRL,Básico Bolsa
+Consumo Cíclico,Utilidades Domésticas,Móveis,GRUPO TOKY,TOKY,Novo Mercado
+Consumo Cíclico,Utilidades Domésticas,Móveis,UNICASA,UCAS,Novo Mercado
+Consumo Cíclico,Utilidades Domésticas,Móveis,WESTWING,WEST,Novo Mercado
+Consumo Cíclico,Utilidades Domésticas,Utensílios Domésticos,HERCULES,HETA,Básico Bolsa
+Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas,AUTOMOB,AMOB,Novo Mercado
+Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas,IOCHP-MAXION,MYPK,Novo Mercado
+Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas,METAL LEVE,LEVE,Novo Mercado
+Consumo Cíclico,Automóveis e Motocicletas,Automóveis e Motocicletas,PLASCAR PART,PLAS,Básico Bolsa
+Consumo Cíclico,Hoteis e Restaurantes,Hotelaria,HOTEIS OTHON,HOOT,Básico Bolsa
+Consumo Cíclico,Hoteis e Restaurantes,Restaurante e Similares,IMC S/A,MEAL,Novo Mercado
+Consumo Cíclico,Viagens e Lazer,Bicicletas,BIC MONARK,BMKS,Básico Bolsa
+Consumo Cíclico,Viagens e Lazer,Brinquedos e Jogos,ESTRELA,ESTR,Básico Bolsa
+Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows,REVEE,RVEE,Novo Mercado
+Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows,SPTURIS,AHEB,Básico Bolsa
+Consumo Cíclico,Viagens e Lazer,Produção de Eventos e Shows,TIME FOR FUN,SHOW,Novo Mercado
+Consumo Cíclico,Viagens e Lazer,Viagens e Turismo,CVC BRASIL,CVCB,Novo Mercado
+Consumo Cíclico,Viagens e Lazer,Atividades Esportivas,SMART FIT,SMFT,Novo Mercado
+Consumo Cíclico,Diversos,Serviços Educacionais,ANIMA,ANIM,Novo Mercado
+Consumo Cíclico,Diversos,Serviços Educacionais,ATOM EDUC,ATED,Básico Bolsa
+Consumo Cíclico,Diversos,Serviços Educacionais,BIOMA EDUC,BIED,Mais
+Consumo Cíclico,Diversos,Serviços Educacionais,COGNA ON,COGN,Novo Mercado
+Consumo Cíclico,Diversos,Serviços Educacionais,CRUZEIRO EDU,CSED,Novo Mercado
+Consumo Cíclico,Diversos,Serviços Educacionais,GRUPO SALTA,SALT,Nível 2
+Consumo Cíclico,Diversos,Serviços Educacionais,ORANJEBTC,OBTC,Básico Bolsa
+Consumo Cíclico,Diversos,Serviços Educacionais,SER EDUCA,SEER,Novo Mercado
+Consumo Cíclico,Diversos,Serviços Educacionais,VITRUEDUCA,VTRU,Novo Mercado
+Consumo Cíclico,Diversos,Serviços Educacionais,YDUQS PART,YDUQ,Novo Mercado
+Consumo Cíclico,Diversos,Aluguel de carros,LOCALIZA,RENT,Novo Mercado
+Consumo Cíclico,Diversos,Aluguel de carros,MOVIDA,MOVI,Novo Mercado
+Consumo Cíclico,Diversos,Aluguel de carros,VAMOS,VAMO,Novo Mercado
+Consumo Cíclico,Diversos,Programas de Fidelização,DOTZ SA,DOTZ,Novo Mercado
+Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos,BIOMM,BIOM,Mais
+Saúde,Medicamentos e Outros Produtos,Medicamentos e Outros Produtos,OUROFINO S/A,OFSA,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",ALLIAR,AALR,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",DASA,DASA,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",FLEURY,FLRY,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",HAPVIDA,HAPV,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",MATER DEI,MATD,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",ODONTOPREV,ODPV,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",ONCOCLINICAS,ONCO,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",QUALICORP,QUAL,Novo Mercado
+Saúde,"Serv.Méd.Hospit.,Análises e Diagnósticos","Serv.Méd.Hospit.,Análises e Diagnósticos",REDE D OR,RDOR,Novo Mercado
+Saúde,Equipamentos,Equipamentos,BAUMER,BALM,Básico Bolsa
+Saúde,Equipamentos,Equipamentos,LIFEMED,LMED,Mais
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,BLAU,BLAU,Novo Mercado
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,D1000VFARMA,DMVF,Novo Mercado
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,DIMED,PNVL,Novo Mercado
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,EUROFARMA SA,EUFA,Mais Nível 2
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,HYPERA,HYPE,Novo Mercado
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,PAGUE MENOS,PGMN,Novo Mercado
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,PROFARMA,PFRM,Novo Mercado
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,RAIADROGASIL,RADL,Novo Mercado
+Saúde,Comércio e Distribuição,Medicamentos e Outros Produtos,VIVEO,VVEO,Novo Mercado
+Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos,INTELBRAS,INTB,Novo Mercado
+Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos,MULTILASER,MLAS,Novo Mercado
+Tecnologia da Informação,Computadores e Equipamentos,Computadores e Equipamentos,POSITIVO TEC,POSI,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,BEMOBI TECH,BMOB,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,BRQ,BRQB,Mais
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,ENJOEI,ENJU,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,INFRACOMM,IFCM,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,LWSA,LWSA,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,MELIUZ,CASH,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,NEOGRID,NGRD,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,PADTEC,PDTC,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,QUALITY SOFT,QUSW,Mais
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,TC,TRAD,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,TOTVS,TOTS,Novo Mercado
+Tecnologia da Informação,Programas e Serviços,Programas e Serviços,WDC NETWORKS,WDCN,Novo Mercado
+Comunicações,Telecomunicações,Telecomunicações,BRISANET,BRST,Novo Mercado
+Comunicações,Telecomunicações,Telecomunicações,DESKTOP,DESK,Novo Mercado
+Comunicações,Telecomunicações,Telecomunicações,OI,OIBR,Nível 1
+Comunicações,Telecomunicações,Telecomunicações,TELEBRAS,TELB,Básico Bolsa
+Comunicações,Telecomunicações,Telecomunicações,TELEF BRASIL,VIVT,Básico Bolsa
+Comunicações,Telecomunicações,Telecomunicações,TIM,TIMS,Novo Mercado
+Comunicações,Telecomunicações,Telecomunicações,UNIFIQUE,FIQE,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,AESOPERACOES,AESO,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,AFLUENTE T,AFLT,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,ALUPAR,ALUP,Nível 2
+Utilidade Pública,Energia Elétrica,Energia Elétrica,AMPLA ENERG,CBEE,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,AUREN,AURE,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,AXIA ENERGIA,AXIA,Nível 1
+Utilidade Pública,Energia Elétrica,Energia Elétrica,CEB,CEBR,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,CEEE-D,CEED,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,CELESC,CLSC,Nível 2
+Utilidade Pública,Energia Elétrica,Energia Elétrica,CELGPAR,GPAR,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,CEMIG,CMIG,Nível 1
+Utilidade Pública,Energia Elétrica,Energia Elétrica,COELBA,CEEB,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,COELCE,COCE,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,COMERC PAR,COMR,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,COPEL,CPLE,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,CPFL ENERGIA,CPFE,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,ELEKTRO,EKTR,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,EMAE,EMAE,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,ENERGISA,ENGI,Nível 2
+Utilidade Pública,Energia Elétrica,Energia Elétrica,ENERGISA MT,ENMT,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,ENEVA,ENEV,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,ENGIE BRASIL,EGIE,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,EQTL PARA,EQPA,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,EQTLMARANHAO,EQMA,Básico Balcão
+Utilidade Pública,Energia Elétrica,Energia Elétrica,EQUATORIAL,EQTL,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,GER PARANAP,GEPA,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,ISA ENERGIA,ISAE,Nível 1
+Utilidade Pública,Energia Elétrica,Energia Elétrica,LIGHT,LIGH,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,LIGHT S/A,LIGT,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,NEOENERGIA,NEOE,Novo Mercado
+Utilidade Pública,Energia Elétrica,Energia Elétrica,PROMAN,PRMN,Básico Balcão
+Utilidade Pública,Energia Elétrica,Energia Elétrica,REDE ENERGIA,REDE,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,RENOVA,RNEW,Nível 2
+Utilidade Pública,Energia Elétrica,Energia Elétrica,RIO ALTO,RIOS,Básico Bolsa
+Utilidade Pública,Energia Elétrica,Energia Elétrica,TAESA,TAEE,Nível 2
+Utilidade Pública,Água e Saneamento,Água e Saneamento,AMBIPAR,AMBP,Novo Mercado
+Utilidade Pública,Água e Saneamento,Água e Saneamento,CASAN,CASN,Básico Bolsa
+Utilidade Pública,Água e Saneamento,Água e Saneamento,COPASA,CSMG,Novo Mercado
+Utilidade Pública,Água e Saneamento,Água e Saneamento,IGUA SA,IGSN,Mais
+Utilidade Pública,Água e Saneamento,Água e Saneamento,ORIZON,ORVR,Novo Mercado
+Utilidade Pública,Água e Saneamento,Água e Saneamento,SABESP,SBSP,Novo Mercado
+Utilidade Pública,Água e Saneamento,Água e Saneamento,SANEPAR,SAPR,Nível 2
+Utilidade Pública,Gás,Gás,CEG,CEGR,Básico Bolsa
+Utilidade Pública,Gás,Gás,COMGAS,CGAS,Básico Bolsa
+Utilidade Pública,Gás,Gás,COMPASS,PASS,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,ABC BRASIL,ABCB,Nível 2
+Financeiro,Intermediários Financeiros,Bancos,ALFA HOLDING,RPAD,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,AMAZONIA,BAZA,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,BANCO BMG,BMGB,Nível 1
+Financeiro,Intermediários Financeiros,Bancos,BANCO PAN,BPAN,Nível 1
+Financeiro,Intermediários Financeiros,Bancos,BANESE,BGIP,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,BANESTES,BEES,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,BANPARA,BPAR,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,BANRISUL,BRSR,Nível 1
+Financeiro,Intermediários Financeiros,Bancos,BR PARTNERS,BRBI,Nível 2
+Financeiro,Intermediários Financeiros,Bancos,BRADESCO,BBDC,Nível 1
+Financeiro,Intermediários Financeiros,Bancos,BRASIL,BBAS,Novo Mercado
+Financeiro,Intermediários Financeiros,Bancos,BRB BANCO,BSLI,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,BTGP BANCO,BPAC,Nível 2
+Financeiro,Intermediários Financeiros,Bancos,INTER CO,INBR,BDR2
+Financeiro,Intermediários Financeiros,Bancos,ITAUUNIBANCO,ITUB,Nível 1
+Financeiro,Intermediários Financeiros,Bancos,MERC INVEST,BMIN,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,MERCANTIL,BMEB,Nível 1
+Financeiro,Intermediários Financeiros,Bancos,NORD BRASIL,BNBR,Básico Bolsa
+Financeiro,Intermediários Financeiros,Bancos,PINE,PINE,Nível 2
+Financeiro,Intermediários Financeiros,Bancos,SANTANDER BR,SANB,Básico Bolsa
+Financeiro,Intermediários Financeiros,Soc. Crédito e Financiamento,MERC FINANC,MERC,Básico Bolsa
+Financeiro,Intermediários Financeiros,Outros Intermediarios Financeiros,INVEST BEMGE,FIGE,Básico Bolsa
+Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis,BRAZILIAN SC,BSCS,Básico Bolsa
+Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis,OPEA,RBRA,Básico Bolsa
+Financeiro,Securitizadoras de Recebíveis,Securitizadoras de Recebíveis,POLO CAP SEC,PLSC,Básico Bolsa
+Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos,G2D INVEST,G2DI,BDR3
+Financeiro,Serviços Financeiros Diversos,Gestão de Recursos e Investimentos,PPLA,PPLA,BDR3
+Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos,B3,B3SA,Novo Mercado
+Financeiro,Serviços Financeiros Diversos,Serviços Financeiros Diversos,CSU DIGITAL,CSUD,Novo Mercado
+Financeiro,Previdência e Seguros,Seguradoras,BBSEGURIDADE,BBSE,Novo Mercado
+Financeiro,Previdência e Seguros,Seguradoras,CAIXA SEGURI,CXSE,Novo Mercado
+Financeiro,Previdência e Seguros,Seguradoras,PORTO SEGURO,PSSA,Novo Mercado
+Financeiro,Previdência e Seguros,Resseguradoras,IRBBRASIL RE,IRBR,Novo Mercado
+Financeiro,Previdência e Seguros,Corretoras de Seguros e Resseguros,WIZ CO,WIZC,Novo Mercado
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,ALLOS,ALOS,Novo Mercado
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,GENERALSHOPP,GSHP,Básico Bolsa
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,HABITASUL,HBTS,Básico Bolsa
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,HBR REALTY,HBRE,Novo Mercado
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,IGUATEMI S.A,IGTI,Nível 1
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,LOG COM PROP,LOGG,Novo Mercado
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,MULTIPLAN,MULT,Nível 2
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,NORDON MET,NORD,Básico Bolsa
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,PAR AL BAHIA,PEAB,Básico Bolsa
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,SAO CARLOS,SCAR,Novo Mercado
+Financeiro,Exploração de Imóveis,Exploração de Imóveis,SYN PROP TEC,SYNE,Novo Mercado
+Financeiro,Exploração de Imóveis,Intermediação Imobiliária,LOPES BRASIL,LPSB,Novo Mercado
+Financeiro,Exploração de Imóveis,Intermediação Imobiliária,NEXPE,NEXP,Básico Bolsa
+Financeiro,Holdings Diversificadas,Holdings Diversificadas,ARANDU,ARND,Novo Mercado
+Financeiro,Holdings Diversificadas,Holdings Diversificadas,EMBPAR S/A,EPAR,Básico Bolsa
+Financeiro,Holdings Diversificadas,Holdings Diversificadas,ITAUSA,ITSA,Nível 1
+Financeiro,Holdings Diversificadas,Holdings Diversificadas,MONT ARANHA,MOAR,Básico Bolsa
+Financeiro,Holdings Diversificadas,Holdings Diversificadas,SIMPAR,SIMH,Novo Mercado
+Financeiro,Serviços Diversos,Serviços Diversos,CIABRASF,ADMF,Novo Mercado
+Financeiro,Outros Títulos,Outros Títulos,CEPAC - CTBA,CTBA,Básico Balcão
+Financeiro,Outros Títulos,Outros Títulos,CEPAC - MCRJ,MCRJ,Básico Balcão
+Financeiro,Outros Títulos,Outros Títulos,CEPAC - PMSP,PMSP,Básico Balcão
+Outros,Outros,Outros,524 PARTICIP,QVQP,Básico Bolsa
+Outros,Outros,Outros,BETAPART,BETP,Básico Bolsa
+Outros,Outros,Outros,CEMEPE,MAPT,Básico Bolsa
+Outros,Outros,Outros,GAMA PART,OPGM,Básico Bolsa
+Outros,Outros,Outros,POLPAR,PPAR,Básico Bolsa
+Outros,Outros,Outros,PROMPT PART,PRPT,Básico Bolsa
+Outros,Outros,Outros,SUDESTE S/A,OPSE,Básico Bolsa
+Outros,Outros,Outros,SUL 116 PART,OPTS,Básico Bolsa

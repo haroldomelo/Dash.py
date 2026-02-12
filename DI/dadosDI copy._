@@ -1,0 +1,67 @@
+import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
+import time 
+import datetime
+import plotly.graph_objects as go
+from selenium.common.exceptions import NoSuchElementException
+from .tratarDI import *
+from .capturarDI import *
+
+def webScrapingDI():
+
+    hoje = datetime.datetime.now()
+    umAnoAtras = hoje - datetime.timedelta(days = 365)
+    tresAnosAtras = hoje - datetime.timedelta(days = 365 * 3)
+    cincoAnosAtras = hoje - datetime.timedelta(days = 365 * 5)
+    dezAnosAtras = hoje - datetime.timedelta(days = 365 * 10)
+
+    lstDatas = [hoje, umAnoAtras, tresAnosAtras, cincoAnosAtras, dezAnosAtras]
+    lstNames = ['hoje', 'um_ano_atras', 'tres_anos_atras', 'cinco_anos_atras', 'dez_anos_atras']
+
+    legenda = pd.Series(['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+                        index = ['F', 'G', 'H', 'J', 'K', 'M', 'N', 'Q', 'U', 'V', 'X', 'Z'])
+    
+    lstDados = []
+
+    for n, data in enumerate(lstDatas):
+         
+        options = Options()
+        options.headless = True
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+        data_atual = data
+        print(data)
+
+        for i in range(0, 1): # tentar por 10 vezes buscar os dados retrocedendo uma dia a cada falha
+
+            data_teste = data_atual.strftime('12/12/2025') # ("%d/%m/%Y")
+
+            url = f'''https://www2.bmf.com.br/pages/portal/bmfbovespa/boletim1/SistemaPregao1.asp?
+            pagetype=pop&caminho=Resumo%20Estat%EDstico%20-%20Sistema%20Preg%E3o&Data={data_teste}
+            &Mercadoria=DI1'''
+
+            try:
+                tabela, indice = capturarDI(url, driver) #função capturarDI retorna a tabela dos dados (tabela) e ao índice (indice)
+                break
+
+            except NoSuchElementException:
+                data_atual = data_atual - datetime.timedelta(days = 1)
+
+        # encerrar o navegador para não consumir memória a toa
+        # driver.quit()
+
+        print(tabela)
+        dados_di = tratarDI(tabela, indice, legenda)
+
+        dados_di = dados_di.reset_index()
+        dados_di.columns = ['data_vencimento', 'preço']
+        dados_di['data_preco'] = lstNames[n]
+
+        lstDados.append(dados_di)
+
+    dados_di = pd.concat(lstDados, ignore_index=True)
+    dados_di.to_csv("dados_di.csv", index = False)
+
+    return dados_di
